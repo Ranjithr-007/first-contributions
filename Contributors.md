@@ -18,6 +18,7 @@ Ahmad
 - [Vibhum](https://github.com/vibhum15) **Hey I'am new hear , connect me hear and all the best for your open source journey**
 - [Sasha Persaud](https://github.com/soshwosh) **New grad making her first open source commit! Better late than never :p**
 - [Elie-Simard](https://github.com/Elie-Simard) **Hello there, first contributors**
+- [Ranjith R](https://github.com/Ranjithr-007) **First open source contribution!!!**
 - [TrungAnhVu](https://github.com/trunganhvu) **I'm a Vietnamese guy😉, readly happy to connect with everyone. Ping me and let's code together😎😎**
 - [@Condition00](https://github.com/Condition00) **Heya!! my journey starts here!!**
 - [KrishnaJoshi](https://github.com/ProgrammerKJ) **Hello!! my journey is beginning!!**
@@ -7294,4 +7295,3 @@ vivek saskar
 - [volidesus](https://github.com/volidesus) **Satu, Dua, Tiga...🚀👋**
 - [benjaquaria](https://github.com/benjaquaria) **First opensource contribution**
 - [surhudkhare](https://github.com/surhudkhare) **Test OS contribution**
-- [Ranjith R](https://github.com/Ranjithr-007) **First open source contribution!!!**
